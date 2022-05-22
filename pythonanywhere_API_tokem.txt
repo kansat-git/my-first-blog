@@ -3,5 +3,5 @@ c78bbefdcb3147a89fb7e72d40c36ee0930049f7
 リポジトリをクローンするためのURL
 https://github.com/kansat-git/my-first-blog.git
 
-PW用トークン
-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
+GIT PW用トークン
+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
